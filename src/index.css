@@ -1,13 +1,6 @@
-body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-}
-
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+body{
+    background-color: #000000;
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/3000/svg' viewBox='0 0 2000 1500'%3E%3Cdefs%3E%3Crect fill='none' stroke-width='100' id='a' x='-700' y='-100' width='1400' height='600'/%3E%3C/defs%3E%3Cg transform='rotate(0 0 0)' style='transform-origin:center'%3E%3Cg transform='rotate(0 0 0)' style='transform-origin:center'%3E%3Cg transform='rotate(0 0 0)' style='transform-origin:center'%3E%3Cg transform='translate(1000 300)'%3E%3Cuse stroke='%23000' href='%23a' transform='rotate(0 0 0)'/%3E%3Cuse stroke='%23020d08' href='%23a' transform='rotate(0 0 0)'/%3E%3Cuse stroke='%2304190f' href='%23a' transform='rotate(0 0 0)'/%3E%3Cuse stroke='%23062617' href='%23a' transform='rotate(0 0 0)'/%3E%3Cuse stroke='%2308321e' href='%23a' transform='rotate(0 0 0)'/%3E%3Cuse stroke='%230a3f26' href='%23a' transform='rotate(0 0 0)'/%3E%3Cuse stroke='%230c4c2e' href='%23a' transform='rotate(0 0 0)'/%3E%3Cuse stroke='%230e5835' href='%23a' transform='rotate(0 0 0)'/%3E%3Cuse stroke='%2310653d' href='%23a' transform='rotate(0 0 0)'/%3E%3Cuse stroke='%23127144' href='%23a' transform='rotate(0 0 0)'/%3E%3Cuse stroke='%23147e4c' href='%23a' transform='rotate(0 0 0)'/%3E%3Cuse stroke='%23168b54' href='%23a' transform='rotate(0 0 0)'/%3E%3Cuse stroke='%2318975b' href='%23a' transform='rotate(0 0 0)'/%3E%3Cuse stroke='%231aa463' href='%23a' transform='rotate(0 0 0)'/%3E%3Cuse stroke='%231cb06a' href='%23a' transform='rotate(0 0 0)'/%3E%3Cuse stroke='%231ebd72' href='%23a' transform='rotate(0 0 0)'/%3E%3C/g%3E%3C/g%3E%3C/g%3E%3C/g%3E%3C/svg%3E");
+    background-attachment: fixed;
+    background-size: cover;
 }
